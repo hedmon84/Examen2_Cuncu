@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\big-h\\OneDrive\\Desktop\\Examen 2 concu\\DistributedLibrary\\src\\DistributedLibrary.OtherAuthors.APi\\DistributedLibrary.OtherAuthors.APi.csproj": {}
+    "C:\\Users\\big-h\\OneDrive\\Desktop\\Examen 2 concu\\Examen2_Cuncu\\DistributedLibrary\\src\\DistributedLibrary.OtherAuthors.APi\\DistributedLibrary.OtherAuthors.APi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\big-h\\OneDrive\\Desktop\\Examen 2 concu\\DistributedLibrary\\src\\DistributedLibrary.Authors.Api\\DistributedLibrary.Authors.Api.csproj": {
+    "C:\\Users\\big-h\\OneDrive\\Desktop\\Examen 2 concu\\Examen2_Cuncu\\DistributedLibrary\\src\\DistributedLibrary.Authors.Api\\DistributedLibrary.Authors.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\big-h\\OneDrive\\Desktop\\Examen 2 concu\\DistributedLibrary\\src\\DistributedLibrary.Authors.Api\\DistributedLibrary.Authors.Api.csproj",
+        "projectUniqueName": "C:\\Users\\big-h\\OneDrive\\Desktop\\Examen 2 concu\\Examen2_Cuncu\\DistributedLibrary\\src\\DistributedLibrary.Authors.Api\\DistributedLibrary.Authors.Api.csproj",
         "projectName": "DistributedLibrary.Authors.Api",
-        "projectPath": "C:\\Users\\big-h\\OneDrive\\Desktop\\Examen 2 concu\\DistributedLibrary\\src\\DistributedLibrary.Authors.Api\\DistributedLibrary.Authors.Api.csproj",
+        "projectPath": "C:\\Users\\big-h\\OneDrive\\Desktop\\Examen 2 concu\\Examen2_Cuncu\\DistributedLibrary\\src\\DistributedLibrary.Authors.Api\\DistributedLibrary.Authors.Api.csproj",
         "packagesPath": "C:\\Users\\big-h\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\big-h\\OneDrive\\Desktop\\Examen 2 concu\\DistributedLibrary\\src\\DistributedLibrary.Authors.Api\\obj\\",
+        "outputPath": "C:\\Users\\big-h\\OneDrive\\Desktop\\Examen 2 concu\\Examen2_Cuncu\\DistributedLibrary\\src\\DistributedLibrary.Authors.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -71,14 +71,14 @@
         }
       }
     },
-    "C:\\Users\\big-h\\OneDrive\\Desktop\\Examen 2 concu\\DistributedLibrary\\src\\DistributedLibrary.Books.Service\\DistributedLibrary.Books.Service.csproj": {
+    "C:\\Users\\big-h\\OneDrive\\Desktop\\Examen 2 concu\\Examen2_Cuncu\\DistributedLibrary\\src\\DistributedLibrary.Books.Service\\DistributedLibrary.Books.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\big-h\\OneDrive\\Desktop\\Examen 2 concu\\DistributedLibrary\\src\\DistributedLibrary.Books.Service\\DistributedLibrary.Books.Service.csproj",
+        "projectUniqueName": "C:\\Users\\big-h\\OneDrive\\Desktop\\Examen 2 concu\\Examen2_Cuncu\\DistributedLibrary\\src\\DistributedLibrary.Books.Service\\DistributedLibrary.Books.Service.csproj",
         "projectName": "DistributedLibrary.Books.Service",
-        "projectPath": "C:\\Users\\big-h\\OneDrive\\Desktop\\Examen 2 concu\\DistributedLibrary\\src\\DistributedLibrary.Books.Service\\DistributedLibrary.Books.Service.csproj",
+        "projectPath": "C:\\Users\\big-h\\OneDrive\\Desktop\\Examen 2 concu\\Examen2_Cuncu\\DistributedLibrary\\src\\DistributedLibrary.Books.Service\\DistributedLibrary.Books.Service.csproj",
         "packagesPath": "C:\\Users\\big-h\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\big-h\\OneDrive\\Desktop\\Examen 2 concu\\DistributedLibrary\\src\\DistributedLibrary.Books.Service\\obj\\",
+        "outputPath": "C:\\Users\\big-h\\OneDrive\\Desktop\\Examen 2 concu\\Examen2_Cuncu\\DistributedLibrary\\src\\DistributedLibrary.Books.Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -118,6 +118,10 @@
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[13.0.1, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.2.1, )"
             }
           },
           "imports": [
@@ -139,14 +143,14 @@
         }
       }
     },
-    "C:\\Users\\big-h\\OneDrive\\Desktop\\Examen 2 concu\\DistributedLibrary\\src\\DistributedLibrary.OtherAuthors.APi\\DistributedLibrary.OtherAuthors.APi.csproj": {
+    "C:\\Users\\big-h\\OneDrive\\Desktop\\Examen 2 concu\\Examen2_Cuncu\\DistributedLibrary\\src\\DistributedLibrary.OtherAuthors.APi\\DistributedLibrary.OtherAuthors.APi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\big-h\\OneDrive\\Desktop\\Examen 2 concu\\DistributedLibrary\\src\\DistributedLibrary.OtherAuthors.APi\\DistributedLibrary.OtherAuthors.APi.csproj",
+        "projectUniqueName": "C:\\Users\\big-h\\OneDrive\\Desktop\\Examen 2 concu\\Examen2_Cuncu\\DistributedLibrary\\src\\DistributedLibrary.OtherAuthors.APi\\DistributedLibrary.OtherAuthors.APi.csproj",
         "projectName": "DistributedLibrary.OtherAuthors.APi",
-        "projectPath": "C:\\Users\\big-h\\OneDrive\\Desktop\\Examen 2 concu\\DistributedLibrary\\src\\DistributedLibrary.OtherAuthors.APi\\DistributedLibrary.OtherAuthors.APi.csproj",
+        "projectPath": "C:\\Users\\big-h\\OneDrive\\Desktop\\Examen 2 concu\\Examen2_Cuncu\\DistributedLibrary\\src\\DistributedLibrary.OtherAuthors.APi\\DistributedLibrary.OtherAuthors.APi.csproj",
         "packagesPath": "C:\\Users\\big-h\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\big-h\\OneDrive\\Desktop\\Examen 2 concu\\DistributedLibrary\\src\\DistributedLibrary.OtherAuthors.APi\\obj\\",
+        "outputPath": "C:\\Users\\big-h\\OneDrive\\Desktop\\Examen 2 concu\\Examen2_Cuncu\\DistributedLibrary\\src\\DistributedLibrary.OtherAuthors.APi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -167,11 +171,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\big-h\\OneDrive\\Desktop\\Examen 2 concu\\DistributedLibrary\\src\\DistributedLibrary.Authors.Api\\DistributedLibrary.Authors.Api.csproj": {
-                "projectPath": "C:\\Users\\big-h\\OneDrive\\Desktop\\Examen 2 concu\\DistributedLibrary\\src\\DistributedLibrary.Authors.Api\\DistributedLibrary.Authors.Api.csproj"
+              "C:\\Users\\big-h\\OneDrive\\Desktop\\Examen 2 concu\\Examen2_Cuncu\\DistributedLibrary\\src\\DistributedLibrary.Authors.Api\\DistributedLibrary.Authors.Api.csproj": {
+                "projectPath": "C:\\Users\\big-h\\OneDrive\\Desktop\\Examen 2 concu\\Examen2_Cuncu\\DistributedLibrary\\src\\DistributedLibrary.Authors.Api\\DistributedLibrary.Authors.Api.csproj"
               },
-              "C:\\Users\\big-h\\OneDrive\\Desktop\\Examen 2 concu\\DistributedLibrary\\src\\DistributedLibrary.Books.Service\\DistributedLibrary.Books.Service.csproj": {
-                "projectPath": "C:\\Users\\big-h\\OneDrive\\Desktop\\Examen 2 concu\\DistributedLibrary\\src\\DistributedLibrary.Books.Service\\DistributedLibrary.Books.Service.csproj"
+              "C:\\Users\\big-h\\OneDrive\\Desktop\\Examen 2 concu\\Examen2_Cuncu\\DistributedLibrary\\src\\DistributedLibrary.Books.Service\\DistributedLibrary.Books.Service.csproj": {
+                "projectPath": "C:\\Users\\big-h\\OneDrive\\Desktop\\Examen 2 concu\\Examen2_Cuncu\\DistributedLibrary\\src\\DistributedLibrary.Books.Service\\DistributedLibrary.Books.Service.csproj"
               }
             }
           }

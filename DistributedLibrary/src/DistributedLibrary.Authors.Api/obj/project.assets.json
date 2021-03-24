@@ -54,11 +54,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\big-h\\OneDrive\\Desktop\\Examen 2 concu\\DistributedLibrary\\src\\DistributedLibrary.Authors.Api\\DistributedLibrary.Authors.Api.csproj",
+      "projectUniqueName": "C:\\Users\\big-h\\OneDrive\\Desktop\\Examen 2 concu\\Examen2_Cuncu\\DistributedLibrary\\src\\DistributedLibrary.Authors.Api\\DistributedLibrary.Authors.Api.csproj",
       "projectName": "DistributedLibrary.Authors.Api",
-      "projectPath": "C:\\Users\\big-h\\OneDrive\\Desktop\\Examen 2 concu\\DistributedLibrary\\src\\DistributedLibrary.Authors.Api\\DistributedLibrary.Authors.Api.csproj",
+      "projectPath": "C:\\Users\\big-h\\OneDrive\\Desktop\\Examen 2 concu\\Examen2_Cuncu\\DistributedLibrary\\src\\DistributedLibrary.Authors.Api\\DistributedLibrary.Authors.Api.csproj",
       "packagesPath": "C:\\Users\\big-h\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\big-h\\OneDrive\\Desktop\\Examen 2 concu\\DistributedLibrary\\src\\DistributedLibrary.Authors.Api\\obj\\",
+      "outputPath": "C:\\Users\\big-h\\OneDrive\\Desktop\\Examen 2 concu\\Examen2_Cuncu\\DistributedLibrary\\src\\DistributedLibrary.Authors.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

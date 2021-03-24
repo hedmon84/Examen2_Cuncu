@@ -1,4 +1,4 @@
-﻿using DistributedLibrary.Authors.Api.Models;
+﻿using DistributedLibrary.OtherAuthors.APi.Models;
 using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
@@ -11,14 +11,14 @@ namespace DistributedLibrary.OtherAuthors.APi.Services
     public class OtherService : IOtherService
     {
         private const string FileName = @"authors.json";
-        public IEnumerable<Autores> GetEntities()
+        public IEnumerable<OtrosAutores> GetEntities()
         {
-            return JsonConvert.DeserializeObject<IEnumerable<Autores>>(File.ReadAllText(FileName));
+            return JsonConvert.DeserializeObject<IEnumerable<OtrosAutores>>(File.ReadAllText(FileName));
         }
 
-        public Autores GetEntityById(int entityId)
+        public OtrosAutores GetEntityById(int entityId)
         {
-            return JsonConvert.DeserializeObject<IEnumerable<Autores>>(File.ReadAllText(FileName)).Where(x => x.Id == entityId).FirstOrDefault();
+            return JsonConvert.DeserializeObject<IEnumerable<OtrosAutores>>(File.ReadAllText(FileName)).Where(x => x.Id == entityId).FirstOrDefault();
         }
     }
 }

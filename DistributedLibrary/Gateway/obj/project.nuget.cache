@@ -1,15 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "N6fufF3adngWpBQfeXtpWfoUxeDVp8rLS3RK6QGCGtgwDs1h0/GQ8u35BFGSJVP+2r/fQ6woaXgz0XrEwVIzcg==",
+  "dgSpecHash": "rPpI+S/OwTRq40aa1e7XAMD8JRyidG1ItE4xa4RHwH2hYz9Chq0MMTa/KTAtoNSp0bh8LeEpsV2dDYqgwIBMnA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\big-h\\OneDrive\\Desktop\\Examen 2 concu\\DistributedLibrary\\Gateway\\Gateway.csproj",
+  "projectFilePath": "C:\\Users\\big-h\\OneDrive\\Desktop\\Examen 2 concu\\Examen2_Cuncu\\DistributedLibrary\\Gateway\\Gateway.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\big-h\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\big-h\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\big-h\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
     "C:\\Users\\big-h\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
     "C:\\Users\\big-h\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
     "C:\\Users\\big-h\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
-    "C:\\Users\\big-h\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+    "C:\\Users\\big-h\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
+    "C:\\Users\\big-h\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\big-h\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
   ],
   "logs": []
 }

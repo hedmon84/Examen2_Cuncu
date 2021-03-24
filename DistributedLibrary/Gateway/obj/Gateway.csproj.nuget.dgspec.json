@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\big-h\\OneDrive\\Desktop\\Examen 2 concu\\DistributedLibrary\\Gateway\\Gateway.csproj": {}
+    "C:\\Users\\big-h\\OneDrive\\Desktop\\Examen 2 concu\\Examen2_Cuncu\\DistributedLibrary\\Gateway\\Gateway.csproj": {}
   },
   "projects": {
-    "C:\\Users\\big-h\\OneDrive\\Desktop\\Examen 2 concu\\DistributedLibrary\\Gateway\\Gateway.csproj": {
+    "C:\\Users\\big-h\\OneDrive\\Desktop\\Examen 2 concu\\Examen2_Cuncu\\DistributedLibrary\\Gateway\\Gateway.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\big-h\\OneDrive\\Desktop\\Examen 2 concu\\DistributedLibrary\\Gateway\\Gateway.csproj",
+        "projectUniqueName": "C:\\Users\\big-h\\OneDrive\\Desktop\\Examen 2 concu\\Examen2_Cuncu\\DistributedLibrary\\Gateway\\Gateway.csproj",
         "projectName": "Gateway",
-        "projectPath": "C:\\Users\\big-h\\OneDrive\\Desktop\\Examen 2 concu\\DistributedLibrary\\Gateway\\Gateway.csproj",
+        "projectPath": "C:\\Users\\big-h\\OneDrive\\Desktop\\Examen 2 concu\\Examen2_Cuncu\\DistributedLibrary\\Gateway\\Gateway.csproj",
         "packagesPath": "C:\\Users\\big-h\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\big-h\\OneDrive\\Desktop\\Examen 2 concu\\DistributedLibrary\\Gateway\\obj\\",
+        "outputPath": "C:\\Users\\big-h\\OneDrive\\Desktop\\Examen 2 concu\\Examen2_Cuncu\\DistributedLibrary\\Gateway\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,6 +44,10 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.2.1, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[5.6.3, )"

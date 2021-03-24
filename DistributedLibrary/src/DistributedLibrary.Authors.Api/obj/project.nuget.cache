@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "I5iGH5aioYM+xExFexCr6ukEWUzdcZPkUP7RdOxWCpJ3lzM/fs/2hbbf1/+tI2pvagi3uGKLLNDUWzMiTkD/Qw==",
+  "dgSpecHash": "uhK3MumVnHNus95HLmzuX/wg2vwDWtrh/38OPvxpWx5fCtiK/wPN4ML5ZFRnHopDP9DyAevCQ/UQIaXE7APpHA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\big-h\\OneDrive\\Desktop\\Examen 2 concu\\DistributedLibrary\\src\\DistributedLibrary.Authors.Api\\DistributedLibrary.Authors.Api.csproj",
+  "projectFilePath": "C:\\Users\\big-h\\OneDrive\\Desktop\\Examen 2 concu\\Examen2_Cuncu\\DistributedLibrary\\src\\DistributedLibrary.Authors.Api\\DistributedLibrary.Authors.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\big-h\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],

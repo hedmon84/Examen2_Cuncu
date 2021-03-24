@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TuEjTQPB8UYsIgMJhtjbv6+trFyHesdr0axUlf1YyxqgjvjHFK6pDkD4PDROieujzH37I4xLCUZWACStgdeL/A==",
+  "dgSpecHash": "uVjFFc21xICA8RQ9F/elqjlKHI+5+6rxGgAQtIvv/x2foa4bydKzgJjp383NZk8vmmHg3BLaPP0H6vdsx6U5+g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\big-h\\OneDrive\\Desktop\\Examen 2 concu\\DistributedLibrary\\src\\DistributedLibrary.Books.Service\\DistributedLibrary.Books.Service.csproj",
+  "projectFilePath": "C:\\Users\\big-h\\OneDrive\\Desktop\\Examen 2 concu\\Examen2_Cuncu\\DistributedLibrary\\src\\DistributedLibrary.Books.Service\\DistributedLibrary.Books.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\big-h\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.10\\microsoft.extensions.configuration.3.1.10.nupkg.sha512",
     "C:\\Users\\big-h\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.10\\microsoft.extensions.configuration.abstractions.3.1.10.nupkg.sha512",
@@ -32,9 +32,12 @@
     "C:\\Users\\big-h\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\big-h\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\big-h\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\big-h\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
     "C:\\Users\\big-h\\.nuget\\packages\\system.diagnostics.eventlog\\4.7.0\\system.diagnostics.eventlog.4.7.0.nupkg.sha512",
+    "C:\\Users\\big-h\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
     "C:\\Users\\big-h\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
-    "C:\\Users\\big-h\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
+    "C:\\Users\\big-h\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
+    "C:\\Users\\big-h\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
   ],
   "logs": []
 }
