@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DistributedLibrary.Authors.Api\DistributedLibrary.Authors.Api.csproj" />
+    <ProjectReference Include="..\DistributedLibrary.Books.Service\DistributedLibrary.Books.Service.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Update="authors.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+
+</Project>
